@@ -1,5 +1,5 @@
 # 👋 About Me:
-⚡ I'm currently working on Terraform and Cloud Tech<br>🌱 I'm currently learning Java<br>👀 I'm interested in Networking
+⚡ I'm currently working on Terraform and Cloud Tech<br>🌱 I'm currently learning SRE skills<br>👀 I'm interested in Networking
 
 
 # 💻 Tech Stack:
